@@ -1,2 +1,2 @@
 # CodexHacktionisOnline
-Complemento del CodexHacktionis.
+Complemento del CodexHacktionis para almacenar Payloads y PoCs
